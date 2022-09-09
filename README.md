@@ -51,3 +51,16 @@
 >>   * For of
 >>
 >
+
+## Sección 5 ##
+> Toda la Sección 5 esta en su misma carpeta [Seccion_5](./seccion_05/)
+>> En esta sección tocaremos los siguientes temas:
+>>> * Trabajar con arreglos
+>>> * Mezclar los valores de los arreglos
+>>> * [Introducción a la manipulación del DOM](./seccion_05/dom.md)
+>>> * Eventos
+>>> * Crear imágenes en la página
+>>> *Realizar la lógica para implementar un competidor de cartas.
+>>>
+>> 
+>
