@@ -60,7 +60,14 @@
 >>> * [Introducción a la manipulación del DOM](./seccion_05/dom.md)
 >>> * Eventos
 >>> * Crear imágenes en la página
->>> *Realizar la lógica para implementar un competidor de cartas.
+>>> * Realizar la lógica para implementar un competidor de cartas.
+>>>
+>> 
+
+## Sección 6 ##
+> Toda la Sección 6 es una modificacion de la carpeta [Seccion_5](./seccion_05/), de cauenrdo a l commit que se hace
+>> En esta sección tocaremos los siguientes temas:
+>>> * Patrón Módulo
 >>>
 >> 
 >
