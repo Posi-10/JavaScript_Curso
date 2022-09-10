@@ -79,6 +79,8 @@
 >>> * Patrón Módulo
 >>> * Minimizar el código de forma manual (luego lo haremos de forma automática)
 >>> * Optimizaciones y protección de código.
->>>
+>>
+>> Los recursos compartidos en la sección 2 son:
+>>> * [Code Minify](https://www.toptal.com/developers/javascript-minifier)
 >> 
 >

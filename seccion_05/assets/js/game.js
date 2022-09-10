@@ -7,7 +7,7 @@
 
 const miModulo = (() => { //funcion anonima auto invocadas
 
-  'use strict' // Ser estricto a la hora de evaluar el codigo
+  'use strict'; // Ser estricto a la hora de evaluar el codigo
 
   let deck = [],
     puntosJugadores = [];
