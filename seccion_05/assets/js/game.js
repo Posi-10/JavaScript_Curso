@@ -186,7 +186,7 @@ const miModulo = (() => { //funcion anonima auto invocadas
     btnPedir.disabled = true;
     btnDetener.disabled = true;
 
-    turnoComputadora(puntosComputadora);
+    turnoComputadora(puntuacion[0]);
 
   });
 

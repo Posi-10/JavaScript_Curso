@@ -72,4 +72,13 @@
 >>> * Optimizaciones y protección de código.
 >>>
 >> 
+
+## Sección 7 ##
+> Toda la Sección 6 es una modificacion de la carpeta [Seccion_5](./seccion_05/), de cauenrdo a l commit que se hace
+>> En esta sección tocaremos los siguientes temas:
+>>> * Patrón Módulo
+>>> * Minimizar el código de forma manual (luego lo haremos de forma automática)
+>>> * Optimizaciones y protección de código.
+>>>
+>> 
 >
