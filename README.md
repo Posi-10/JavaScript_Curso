@@ -70,17 +70,25 @@
 >>> * Patrón Módulo
 >>> * Minimizar el código de forma manual (luego lo haremos de forma automática)
 >>> * Optimizaciones y protección de código.
->>>
+>>
+>> Los recursos compartidos en la sección 6 son:
+>>> * [Code Minify](https://www.toptal.com/developers/javascript-minifier)
 >> 
+>
 
 ## Sección 7 ##
-> Toda la Sección 6 es una modificacion de la carpeta [Seccion_5](./seccion_05/), de cauenrdo a l commit que se hace
+> Toda la Sección 7 es una modificacion de la carpeta [Seccion_7](./seccion_07/), de cauenrdo a l commit que se hace
 >> En esta sección tocaremos los siguientes temas:
->>> * Patrón Módulo
->>> * Minimizar el código de forma manual (luego lo haremos de forma automática)
->>> * Optimizaciones y protección de código.
+>>> * [Problematica de prototipos](./seccion_07/01_problema/assets/js/problema.js)
+>>> * [Clases](./seccion_07/02_class/assets/js/class.js)
+>>> * [Sets y Gets](./seccion_07/03_sets_gets/assets/js/sets_gets.js)
+>>> * [Métodos estáticos y Gets estáticos](./seccion_07/04_metodos_estaticos_gets_estaticos/assets/js/metodos_estaticos_gets_estaticos.js)
+>>> * [Extend - Clases con SubClases](./seccion_07/05_extend_sub-clases/assets/js/extend_sub-clases.js)
+>>> * [ESNext: Propiedades privadas (aún no soportado completamente)](./seccion_07/06_propiedades_privadas/assets/js/propiedades_privadas.js)
+>>> * Singletons
+>>> * Multiples constructores
 >>
->> Los recursos compartidos en la sección 2 son:
->>> * [Code Minify](https://www.toptal.com/developers/javascript-minifier)
+>> Los recursos compartidos en la sección 7 son:
+>>> * [Cane I use](https://caniuse.com/)
 >> 
 >
