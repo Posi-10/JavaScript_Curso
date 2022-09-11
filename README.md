@@ -111,4 +111,8 @@
 >>> - Optimizaciones para producción
 >>> - Manejo de imágenes
 >> 
->
+>> Los recursos compartidos en la sección 7 son:
+>>> * [WebPack](https://webpack.js.org/)
+>>> * [BABEL](https://babeljs.io/setup)
+>>
+> 
