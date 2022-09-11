@@ -90,5 +90,25 @@
 >>
 >> Los recursos compartidos en la sección 7 son:
 >>> * [Cane I use](https://caniuse.com/)
+>>
+> 
+
+
+## Sección 8 ##
+> Toda la Sección 8 es una modificacion de la carpeta [Seccion_8](./seccion_08/), de cauenrdo a l commit que se hace
+>> En esta sección tocaremos los siguientes temas:
+>>> - [Introducción a Node, Npm y Webpack](./seccion_08/01_introducci%C3%B3n_node_npm_webpack.md)
+>>> - Más sobre módulos
+>>> - Webpack y su beneficio
+>>> - ¿Quienes usan Webpack?
+>>> - ¿Qué es Webpack?
+>>> - Webpack y su configuración
+>>> - DevServer
+>>> - Hot Reload
+>>> - Babel
+>>> - Minimización automática
+>>> - Crear aplicación para producción
+>>> - Optimizaciones para producción
+>>> - Manejo de imágenes
 >> 
 >
