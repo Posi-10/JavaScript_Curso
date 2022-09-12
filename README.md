@@ -95,7 +95,7 @@
 
 
 ## Sección 8 ##
-> Toda la Sección 8 es una modificacion de la carpeta [Seccion_8](./seccion_08/), de cauenrdo a l commit que se hace
+> Toda la Sección 8 es una modificacion de la carpeta [Seccion_8](./seccion_08/).
 >> En esta sección tocaremos los siguientes temas:
 >>> - [Introducción a Node, Npm y Webpack](./seccion_08/01_introducci%C3%B3n_node_npm_webpack.md)
 >>> - Más sobre módulos
@@ -111,8 +111,24 @@
 >>> - Optimizaciones para producción
 >>> - Manejo de imágenes
 >> 
->> Los recursos compartidos en la sección 7 son:
+>> Los recursos compartidos en la sección 8 son:
 >>> * [WebPack](https://webpack.js.org/)
 >>> * [BABEL](https://babeljs.io/setup)
+>>
+
+
+## Sección 9 ##
+> Toda la Sección 9 es una modificacion de la carpeta [Seccion_9](./seccion_09/), de cauenrdo a l commit que se hace
+>> En esta sección tocaremos los siguientes temas:
+>>> - Comandos básicos de Git
+>>> - Configuración inicial de Git
+>>> - Crear repositorios
+>>> - Desplegar nuestro código a Github
+>>> - Desplegar el sitio web a GitHub Pages
+>> 
+>> Los recursos compartidos en la sección 9 son:
+>>> * [Git](https://git-scm.com/)
+>>> * [GitCheatSheet](./seccion_09/official-github-git-cheat-sheet.pdf)
+>>> * [GitHub](https://github.com/)
 >>
 > 
