@@ -131,4 +131,31 @@
 >>> * [GitCheatSheet](./seccion_09/official-github-git-cheat-sheet.pdf)
 >>> * [GitHub](https://github.com/)
 >>
-> 
+
+
+## Sección 9 ##
+> Toda la Sección 9 es una modificacion de la carpeta [Seccion_9](./seccion_09/), de cauenrdo a l commit que se hace
+>> En esta sección tocaremos los siguientes temas:
+>>> - Webpack
+>>> - Uso de clases
+>>> - Uso del LocalStorage y SessionStorage
+>>> - Importaciones
+>>> - Módulos
+>>> - Lógica para el manejo de todos
+>>> - Despliegues
+>>> - Arreglos
+>>> - Más...
+>> 
+>> Los recursos compartidos en la sección 9 son:
+>>> * [filter](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+>>> * [map](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+>>
+
+
+
+
+
+
+
+
+
