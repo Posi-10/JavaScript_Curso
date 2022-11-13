@@ -133,8 +133,8 @@
 >>
 
 
-## Sección 9 ##
-> Toda la Sección 9 es una modificacion de la carpeta [Seccion_9](./seccion_09/), de cauenrdo a l commit que se hace
+## Sección 10 ##
+> Toda la Sección 10 es una modificacion de la carpeta [Seccion_10](./seccion_10/), de cauenrdo a l commit que se hace
 >> En esta sección tocaremos los siguientes temas:
 >>> - Webpack
 >>> - Uso de clases
@@ -146,16 +146,24 @@
 >>> - Arreglos
 >>> - Más...
 >> 
->> Los recursos compartidos en la sección 9 son:
+>> Los recursos compartidos en la sección 10 son:
 >>> * [filter](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 >>> * [map](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 >>
 
 
-
-
-
-
-
-
+## Sección 11 ##
+> Toda la Sección 11 es una modificacion de la carpeta [Seccion_11](./seccion_11/), de cauenrdo a l commit que se hace
+>> En esta sección tocaremos los siguientes temas:
+>>> - [Callbacks](./seccion_11/src/js/callbacks.js)
+>>> - [Callback Hell](./seccion_11/src/js/uso-call-prom.back.js)
+>>> - [Promesas](./seccion_11/src/js/promesas.js)
+>>>   - [all, catch, them](./seccion_11/src/js/uso-call-prom.back.js)
+>>>   - [race](./seccion_11/src/js/uso-call-prom.race.async.js)
+>>>   - try
+>>> - [Async](./seccion_11/src/js/uso-call-prom.race.async.js)
+>>> - [Await](./seccion_11/src/js/await.js)
+>>> - [for await, if await](./seccion_11/src/js/await.js)
+>> 
+>>
 
