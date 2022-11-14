@@ -144,7 +144,6 @@
 >>> - Lógica para el manejo de todos
 >>> - Despliegues
 >>> - Arreglos
->>> - Más...
 >> 
 >> Los recursos compartidos en la sección 10 son:
 >>> * [filter](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
@@ -160,10 +159,25 @@
 >>> - [Promesas](./seccion_11/src/js/promesas.js)
 >>>   - [all, catch, them](./seccion_11/src/js/uso-call-prom.back.js)
 >>>   - [race](./seccion_11/src/js/uso-call-prom.race.async.js)
->>>   - try
 >>> - [Async](./seccion_11/src/js/uso-call-prom.race.async.js)
 >>> - [Await](./seccion_11/src/js/await.js)
 >>> - [for await, if await](./seccion_11/src/js/await.js)
 >> 
 >>
 
+
+## Sección 12 ##
+> Toda la Sección 12 es una modificacion de la carpeta [Seccion_12](./seccion_12/), de cauenrdo a l commit que se hace
+>> En esta sección tocaremos los siguientes temas:
+>>> - Peticiones Http
+>>> - Fetch
+>>> - CRUD
+>>> - Subida de archivos
+>>> - Cloudinary
+>>> - Manipulación del DOM
+>> 
+>> Los recursos compartidos en la sección 10 son:
+>>> * [Chucknorris.io](https://api.chucknorris.io/)
+>>> * [Reqres](https://reqres.in/)
+>>> * [cloudinary](https://cloudinary.com/)
+>>
