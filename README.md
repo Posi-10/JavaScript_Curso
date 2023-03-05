@@ -226,15 +226,19 @@
 ### Sección 9: Git - Github y Github pages ###
 > Toda la Sección 9 es una modificacion de la carpeta [Seccion_9](./V2.0/seccion_09/).
 >> En esta sección tocaremos los siguientes temas:
->>> - 
->>> - 
->>> - 
->>> - 
->>> - 
+>>> - [¿Por qué debo de saber Git?](./V2.0/seccion_09/git.md)
+>>> - Cómo tomar fotografías del estado de mi proyecto (commits)
+>>> - Subir cambios a Github
+>>> - Realizar modificaciones locales
+>>> - Volver a desplegar los cambios
+>>> - Usar GitHub Pages para desplegar nuestra aplicación funcionando
+>>> - .gitignore
 >> 
 >> Los recursos compartidos en la sección 9 son:
->>> * 
->>> * 
+>>> * [Git](https://git-scm.com/)
+>>> * [GitCheatSheet](./V1.0/seccion_09/official-github-git-cheat-sheet.pdf)
+>>> * [GitHub](https://github.com/) 
+>>> * [12 comando de Git](https://youtu.be/iT4UOkyI09k)
 >>
 
 ### Sección 10: Vite Lista de tareas ###
