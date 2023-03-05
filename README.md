@@ -212,15 +212,15 @@
 ### Sección 8: Modulos y Vite ###
 > Toda la Sección 8 es una modificacion de la carpeta [Seccion_8](./V2.0/seccion_08/).
 >> En esta sección tocaremos los siguientes temas:
->>> - ¿Qué son bundlers?
+>>> - [¿Qué son bundlers?](./V2.0/seccion_08/Bundlers_Herramientas.md)
 >>> - ¿Qué es Webpack y TurboPack?
 >>> - ¿Qué es Vite?
 >>> - ¿Quienes usan Webpack?
 >>> - ¿Por qué queremos utilizar esas herramientas?
 >> 
 >> Los recursos compartidos en la sección 8 son:
->>> * 
->>> * 
+>>> * [netlify](https://www.netlify.com/)
+>>> * [JSDoc](https://jsdoc.app/about-getting-started.html)
 >>
 
 ### Sección 9: Git - Github y Github pages ###
