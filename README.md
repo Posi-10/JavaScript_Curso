@@ -244,15 +244,19 @@
 ### Sección 10: Vite Lista de tareas ###
 > Toda la Sección 10 es una modificacion de la carpeta [Seccion_10](./V2.0/seccion_10/).
 >> En esta sección tocaremos los siguientes temas:
->>> - 
->>> - 
->>> - 
->>> - 
->>> - 
+>>> - Scopes
+>>> - Variables locales
+>>> - Store global
+>>> - Módulos
+>>> - LocalStorage
+>>> - Session Storage
+>>> - Despliegues
+>>> - Vite
+>>> - Documentación de funciones
 >> 
 >> Los recursos compartidos en la sección 10 son:
->>> * 
->>> * 
+>>> * [ViteJS](https://vitejs.dev/)
+>>> * [uuid](https://www.npmjs.com/package/uuid)
 >>
 
 ### Sección 11: Callbacks, promesas y generadores ###
