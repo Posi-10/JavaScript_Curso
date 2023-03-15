@@ -304,8 +304,7 @@
 > >
 > > Los recursos compartidos en la sección 11 son:
 > >
-> > > - [Function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction)
-> > > -
+> > > - [Function\*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction)
 
 ### Sección 12: Peticiones HTTP
 
@@ -313,11 +312,7 @@
 >
 > > En esta sección tocaremos los siguientes temas:
 > >
-> > > -
-> > > -
-> > > -
-> > > -
-> > > -
+> > > - peticiones http
 > >
 > > Los recursos compartidos en la sección 12 son:
 > >
