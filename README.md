@@ -23,6 +23,7 @@
     - [Sección 11: Callbacks, promesas y generadores](#sección-11-callbacks-promesas-y-generadores)
     - [Sección 12: Peticiones HTTP](#sección-12-peticiones-http)
     - [Sección 13: GRUD - App - No Frameworks](#sección-13-grud---app---no-frameworks)
+    - [Sección 14: ES Next](#sección-14-es-next)
 
 ## Version 1.0
 
@@ -313,15 +314,36 @@
 > > En esta sección tocaremos los siguientes temas:
 > >
 > > > - peticiones http
-> >
-> > Los recursos compartidos en la sección 12 son:
-> >
-> > > -
-> > > -
 
 ### Sección 13: GRUD - App - No Frameworks
 
 > Toda la Sección 13 es una modificacion de la carpeta [Seccion_13](./V2.0/seccion_13/).
+>
+> > En esta sección tocaremos los siguientes temas:
+> >
+> > > - Operaciones CRUD
+> > >   - Create
+> > >   - Read
+> > >   - Update
+> > >   - Delete
+> > > - Sin frameworks o librerías externas
+> > > - Modals
+> > > - Mappers
+> > > - Clases
+> > > - Utilizar conversiones
+> > > - Código limpio
+> > > - Comprender las funcionalidades básicas de un Restful API de un backend
+> > > - Montar un backend de pruebas
+> > > - Generar y utilizar un store central para nuestro estado de la aplicación
+> > > - Documentación de funciones
+> >
+> > Los recursos compartidos en la sección 13 son:
+> >
+> > > - [json-server](https://www.npmjs.com/package/json-server)
+
+### Sección 14: ES Next
+
+> Toda la Sección 14 es una modificacion de la carpeta [Seccion_14](./V2.0/seccion_14/).
 >
 > > En esta sección tocaremos los siguientes temas:
 > >
